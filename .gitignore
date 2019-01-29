@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+/nbproject
+.env
+composer.lock
+.idea/
+_ide_helper.php
+.codeclimate.yml
+!public/assets/vendors
+/public/uploads/
+/public/sitemap.xml

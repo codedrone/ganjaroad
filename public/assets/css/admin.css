@@ -1,0 +1,18 @@
+.bootstrap-select .bs-caret{display: none;}
+.panel-primary .pull-right .btn{margin: 0 10px 0 0;}
+.panel-primary .pull-right .btn i{padding: 0 10px 0 0;}
+
+.panel-primary .datepicker {
+	background-color: #fff ;
+	color: #000 ;
+}
+
+.panel-primary .header-filters {
+	margin: 20px;
+}
+.panel-primary .range-filter {
+	margin: 0px 60px;
+}
+
+.status-col .published{color: green;}
+.status-col .not-published{color: yellow;}
